@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb://aneeshb123plr:aneeshb123plr@ds061601.mlab.com:61601/contact-keeper",
+  "jwtSecret": "jwtSecret"
+}
